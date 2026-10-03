@@ -4,15 +4,15 @@ Domain monitoring and management dashboard for tracking website uptime, registra
 
 ## Features
 
-- **Uptime Monitoring** — Real-time domain status checking with configurable concurrency
-- **Expiry Tracking** — Registration and expiry date management with countdown badges
-- **Search & Filter** — Filter by status (online/offline), category, and expiry range (7/14/30/60 days)
-- **Archive System** — Mark domains as inactive without deleting them
-- **Email Notifications** — Multi-recipient expiry alerts via Resend API
-- **User Management** — Role-based access control (staffwebdev = admin) with per-user category assignment
-- **WordPress Progress** — Checklist tracking for WordPress site setup tasks
-- **Responsive UI** — Mobile-first layout with sidebar navigation
-- **Auto-Refresh** — Status checks every 15 minutes
+- **Uptime Monitoring**: Real-time domain status checking with configurable concurrency
+- **Expiry Tracking**: Registration and expiry date management with countdown badges
+- **Search & Filter**: Filter by status (online/offline), category, and expiry range (7/14/30/60 days)
+- **Archive System**: Mark domains as inactive without deleting them
+- **Email Notifications**: Multi-recipient expiry alerts via Resend API
+- **User Management**: Role-based access control (staffwebdev = admin) with per-user category assignment
+- **WordPress Progress**: Checklist tracking for WordPress site setup tasks
+- **Responsive UI**: Mobile-first layout with sidebar navigation
+- **Auto-Refresh**: Status checks every 15 minutes
 
 ## Tech Stack
 
